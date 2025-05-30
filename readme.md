@@ -38,11 +38,11 @@ A collaborative learning platform where users can share study materials, post as
 
 - 🔗 [Client Repo](https://github.com/ammar-bin-quddus/studyHive-client)
 - 🔗 [Server Repo](https://github.com/ammar-bin-quddus/studyHive-server)
-- ⚙️ Tech: React, Tailwind CSS, Firebase Auth, Express.js, MongoDB
+- ⚙️ Tech: React, Tailwind CSS, gsap, Firebase Auth, jwt, Express.js, MongoDB
 - ✨ Features:
-  - Upload and access study resources
-  - Real-time updates and notifications
-  - Authenticated user dashboard
+  - Secure user authentication with email/password and Google (JWT-based)
+  - Submit, review, and give feedback on assignments
+  - View pending tasks and track peer review status
 
 ---
 
@@ -53,9 +53,9 @@ A donation and crowdfunding platform that enables users to request or donate fun
 - 🔗 [Server Repo](https://github.com/ammar-bin-quddus/crowdcube-server)
 - ⚙️ Tech: React, Tailwind CSS, DaisyUI, Firebase, Express.js, MongoDB, JWT
 - ✨ Features:
-  - Admin and volunteer dashboard
-  - Create and manage donation requests
-  - Secure login and role verification
+  - Create and manage personal crowdfunding campaigns
+  - Browse and donate to campaigns, with donation sorting and filters
+  - Real-time update of funding data and donor count
 
 ---
 
