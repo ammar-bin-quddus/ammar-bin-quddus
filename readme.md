@@ -2,7 +2,7 @@
 
 ### 💻 Frontend Developer | MERN Stack Enthusiast | Open to Opportunities
 
-I'm a passionate and self-driven **Frontend Developer** with hands-on experience in building full-stack web applications using **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Firebase**. I love creating clean, minimal, and responsive UIs that provide excellent user experiences.
+I'm a passionate and self-driven **Full Stack Developer** with hands-on experience in building full-stack web applications using **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **Firebase**. I love creating clean, minimal, and responsive UIs that provide excellent user experiences.
 
 ---
 
